@@ -12,3 +12,11 @@
 # database
 * fauna -- https://fauna.com/ -- "severless" db
 
+# CMS
+* https://www.sanity.io/
+* https://www.datocms.com/
+* https://forestry.io/
+* Contentful -- free/10 users, "micro" space
+* https://prismic.io/ -- $7/3 users
+* netlify CMS -- free
+
