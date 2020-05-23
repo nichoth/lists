@@ -21,3 +21,8 @@
 * https://prismic.io/ -- $7/3 users
 * netlify CMS -- free -- makes commits to your repo
 
+# "stores"
+* snipcart -- payments and cart UI
+"Display and manage orders, customers and discounts inside your own CMS admin."
+* square
+
