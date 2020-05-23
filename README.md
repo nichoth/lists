@@ -1,4 +1,5 @@
 # hosting
+
 ## web
 * https://surge.sh/ -- surge -- CLI for deploying
 * netlify -- github listener
@@ -18,5 +19,5 @@
 * https://forestry.io/
 * Contentful -- free/10 users, "micro" space
 * https://prismic.io/ -- $7/3 users
-* netlify CMS -- free
+* netlify CMS -- free -- makes commits to your repo
 
