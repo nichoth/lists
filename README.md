@@ -26,3 +26,16 @@
 "Display and manage orders, customers and discounts inside your own CMS admin."
 * square
 
+------------------------
+
+https://user-guides.prismic.io/en/articles/868753-sample-ecommerce-site-with-snipcart-in-node-js
+
+https://www.contentful.com/blog/2016/02/10/snipcart-middleman-contentful/
+
+https://snipcart.com/blog/hugo-tutorial-static-site-ecommerce
+
+
+# email
+* https://sendgrid.com/
+
+
