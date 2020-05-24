@@ -1,5 +1,7 @@
 # hosting
 
+[more list](https://dev.to/fullstack_to/services-for-your-jamstack-application-45e5)
+
 ## web
 * https://surge.sh/ -- surge -- CLI for deploying
 * netlify -- github listener
@@ -12,6 +14,8 @@
 
 ## database
 * fauna -- https://fauna.com/ -- "severless" db
+* [firebase](https://firebase.google.com/) -- free tier
+* [airtable](https://airtable.com/)
 
 ## CMS
 * https://www.sanity.io/
