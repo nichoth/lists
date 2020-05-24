@@ -51,3 +51,8 @@ each page links to the same JS app, which handles client side routing.
 If the href is local to the server, then re-render the HTML via the client-side JS
 
 
+------------------------------
+
+# square CMS
+Go to https://squareup.com/dashboard/items/library to add/remove "products" from the CMS.
+
