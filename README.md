@@ -50,9 +50,15 @@ each page links to the same JS app, which handles client side routing.
 
 If the href is local to the server, then re-render the HTML via the client-side JS
 
-
 ------------------------------
 
 # square CMS
 Go to https://squareup.com/dashboard/items/library to add/remove "products" from the CMS.
+
+-------------------------------
+
+# faunaDB
+
+* [Example of using FaunaDB with Netlify functions](https://github.com/netlify/netlify-faunadb-example/blob/master/README.md)
+* [Netlify integration with fauna](https://docs.fauna.com/fauna/current/integrations/netlify.html)
 
