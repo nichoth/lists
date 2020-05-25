@@ -1,3 +1,8 @@
+# more notes and examples and stuff
+* https://github.com/nichoth/fauna-netlify
+* https://github.com/nichoth/buying-things 
+* https://github.com/nichoth/netlify-notes
+
 # hosting
 
 [more list](https://dev.to/fullstack_to/services-for-your-jamstack-application-45e5)
@@ -62,9 +67,9 @@ Go to https://squareup.com/dashboard/items/library to add/remove "products" from
 -------------------------------
 
 # faunaDB
-
 * [Example of using FaunaDB with Netlify functions](https://github.com/netlify/netlify-faunadb-example/blob/master/README.md)
 * [Netlify integration with fauna](https://docs.fauna.com/fauna/current/integrations/netlify.html)
+* [ecommerce](https://docs.fauna.com/fauna/current/tutorials/ecommerce.html)
 
 
 # netlify notes
