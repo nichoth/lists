@@ -75,4 +75,7 @@ Put the netlify CMS single page app in the route `/admin`. It allows you to save
 After logging in, the app will redirect you to the base page `/public/index.html` but it will add some query parameters. This is why you need a `netlify identity` widget on your home page. It will parse the query params that were set.
 
 
+# ssr
+Each route is rendered as HTML, and every page links to the same JS. Once the page has loaded, the JS listens for click events and re-renders the view if the `href` is local. 
+
 
