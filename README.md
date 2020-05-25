@@ -53,11 +53,7 @@ https://snipcart.com/blog/hugo-tutorial-static-site-ecommerce
 # notes
 
 ## ssr
-Render the markup for each route as a static page
-
-each page links to the same JS app, which handles client side routing.
-
-If the href is local to the server, then re-render the HTML via the client-side JS
+Render the markup for each route as a static page.  Each page links to the same JS app, which handles client side routing.  If the href is local to the server, then re-render the HTML via the client-side JS.
 
 ------------------------------
 
