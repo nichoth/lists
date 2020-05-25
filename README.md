@@ -66,3 +66,13 @@ Go to https://squareup.com/dashboard/items/library to add/remove "products" from
 * [Example of using FaunaDB with Netlify functions](https://github.com/netlify/netlify-faunadb-example/blob/master/README.md)
 * [Netlify integration with fauna](https://docs.fauna.com/fauna/current/integrations/netlify.html)
 
+
+# netlify notes
+
+## netlify cms
+Put the netlify CMS single page app in the route `/admin`. It allows you to save content to your repository via github.
+
+After logging in, the app will redirect you to the base page `/public/index.html` but it will add some query parameters. This is why you need a `netlify identity` widget on your home page. It will parse the query params that were set.
+
+
+
