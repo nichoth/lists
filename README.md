@@ -29,6 +29,7 @@
 * Contentful -- free/10 users, "micro" space
 * https://prismic.io/ -- $7/3 users
 * netlify CMS -- free -- makes commits to your repo
+* [storyblok](https://www.storyblok.com/)
 
 ## "stores"
 * snipcart -- payments and cart UI
