@@ -1,9 +1,12 @@
-# more notes and examples and stuff
+## fonts
+* [pointy](https://www.fontmirror.com/pointy) -- [bitfoundry](https://bitfoundry.ca/collections/frontpage/products/pointy-font)
+
+## more notes and examples and stuff
 * https://github.com/nichoth/fauna-netlify
 * https://github.com/nichoth/buying-things 
 * https://github.com/nichoth/netlify-notes
 
-# hosting
+## hosting
 
 [more list](https://dev.to/fullstack_to/services-for-your-jamstack-application-45e5)
 
@@ -74,9 +77,5 @@ Go to https://squareup.com/dashboard/items/library to add/remove "products" from
 Put the netlify CMS single page app in the route `/admin`. It allows you to save content to your repository via github.
 
 After logging in, the app will redirect you to the base page `/public/index.html` but it will add some query parameters. This is why you need a `netlify identity` widget on your home page. It will parse the query params that were set.
-
-
-## ssr
-Each route is rendered as HTML, and every page links to the same JS. Once the page has loaded, the JS listens for click events and re-renders the view if the `href` is local. 
 
 
