@@ -25,7 +25,7 @@
 * [airtable](https://airtable.com/)
 
 ## CMS
-* https://www.sanity.io/ -- free/3 users
+* https://www.sanity.io/ -- free/3 users. Seems to be it's own DB (not just git) https://www.sanity.io/docs/datastore
 * https://www.datocms.com/ -- free/2 users
 * https://forestry.io/ -- free/1 user i think
 * [Contentful](https://www.contentful.com/) -- free/10 users, "micro" space
