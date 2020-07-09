@@ -28,7 +28,7 @@
 * https://www.sanity.io/
 * https://www.datocms.com/
 * https://forestry.io/
-* Contentful -- free/10 users, "micro" space
+* [Contentful](https://www.contentful.com/) -- free/10 users, "micro" space
 * https://prismic.io/ -- $7/3 users
 * netlify CMS -- free -- makes commits to your repo
 * [storyblok](https://www.storyblok.com/)
