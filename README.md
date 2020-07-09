@@ -25,13 +25,13 @@
 * [airtable](https://airtable.com/)
 
 ## CMS
-* https://www.sanity.io/
-* https://www.datocms.com/
-* https://forestry.io/
+* https://www.sanity.io/ -- free/3 users
+* https://www.datocms.com/ -- free/2 users
+* https://forestry.io/ -- free/1 user i think
 * [Contentful](https://www.contentful.com/) -- free/10 users, "micro" space
-* https://prismic.io/ -- $7/3 users
+* https://prismic.io/ -- free/1 user
 * netlify CMS -- free -- makes commits to your repo
-* [storyblok](https://www.storyblok.com/)
+* [storyblok](https://www.storyblok.com/) -- free/1 user
 
 ## "stores"
 * snipcart -- payments and cart UI
