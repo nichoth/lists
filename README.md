@@ -7,7 +7,6 @@
 * https://github.com/nichoth/netlify-notes
 
 ## hosting
-
 [more list](https://dev.to/fullstack_to/services-for-your-jamstack-application-45e5)
 
 ## web
@@ -16,7 +15,7 @@
 * https://vercel.com/ -- github listener
 
 ## ipfs
-* fleek -- tad web and magic ipfs hosting
+* fleek -- traditional web and magic ipfs hosting
 * https://play2.temporal.cloud/auth -- playground -- ipfs pinning
 * ethoFS -- https://ethofs.com/
 
