@@ -25,9 +25,12 @@
 * [airtable](https://airtable.com/)
 
 ## CMS
-* https://www.sanity.io/ -- free/3 users. Seems to be it's own DB (not just git) https://www.sanity.io/docs/datastore
+* https://www.sanity.io/ -- free/3 users. Seems to be it's own DB (not just git)
+  - https://www.sanity.io/docs/datastore
+  - [sanity ecommerce](https://www.sanity.io/solutions/e-commerce)
+  - [sanity ecommerce again](https://www.sanity.io/blog/e-commerce-sample-schema)
 * https://www.datocms.com/ -- free/2 users
-* https://forestry.io/ -- free/1 user i think
+* https://forestry.io/ -- free/1 user i think -- git based, not DB
 * [Contentful](https://www.contentful.com/) -- free/10 users, "micro" space
 * https://prismic.io/ -- free/1 user
 * netlify CMS -- free -- makes commits to your repo
@@ -75,6 +78,5 @@ Go to https://squareup.com/dashboard/items/library to add/remove "products" from
 ## netlify cms
 Put the netlify CMS single page app in the route `/admin`. It allows you to save content to your repository via github.
 
-After logging in, the app will redirect you to the base page `/public/index.html` but it will add some query parameters. This is why you need a `netlify identity` widget on your home page. It will parse the query params that were set.
 
 
