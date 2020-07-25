@@ -39,7 +39,7 @@
 ## "stores"
 * snipcart -- payments and cart UI
 "Display and manage orders, customers and discounts inside your own CMS admin."
-* square
+* square -- 2.9% + $.30 / payment
 * [foxy.io](https://www.foxy.io/) -- $15/month
 
 ------------------------
