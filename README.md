@@ -6,16 +6,14 @@
 * https://github.com/nichoth/buying-things 
 * https://github.com/nichoth/netlify-notes
 
-## hosting
-[more list](https://dev.to/fullstack_to/services-for-your-jamstack-application-45e5)
-
 ## web
 * https://surge.sh/ -- surge -- CLI for deploying
-* netlify -- github listener
+* [netlify](https://www.netlify.com/) -- github listener
 * https://vercel.com/ -- github listener
+* https://dev.to/fullstack_to/services-for-your-jamstack-application-45e5
 
 ## ipfs
-* fleek -- traditional web and magic ipfs hosting
+* [fleek](https://fleek.co/) -- traditional web and magic ipfs hosting
 * https://play2.temporal.cloud/auth -- playground -- ipfs pinning
 * ethoFS -- https://ethofs.com/
 
@@ -23,6 +21,14 @@
 * fauna -- https://fauna.com/ -- "severless" db
 * [firebase](https://firebase.google.com/) -- free tier
 * [airtable](https://airtable.com/)
+
+### faunaDB
+* [Example of using FaunaDB with Netlify functions](https://github.com/netlify/netlify-faunadb-example/blob/master/README.md)
+* [Netlify integration with fauna](https://docs.fauna.com/fauna/current/integrations/netlify.html)
+* [ecommerce](https://docs.fauna.com/fauna/current/tutorials/ecommerce.html)
+* https://github.com/nichoth/fauna-netlify
+
+
 
 ## CMS
 * https://www.sanity.io/ -- free/3 users. Seems to be it's own DB (not just git)
@@ -45,7 +51,6 @@
 ------------------------
 
 ## snipcart info
-
 https://user-guides.prismic.io/en/articles/868753-sample-ecommerce-site-with-snipcart-in-node-js
 
 https://www.contentful.com/blog/2016/02/10/snipcart-middleman-contentful/
@@ -68,13 +73,6 @@ Render the markup for each route as a static page.  Each page links to the same 
 Go to https://squareup.com/dashboard/items/library to add/remove "products" from the CMS.
 
 -------------------------------
-
-## faunaDB
-* [Example of using FaunaDB with Netlify functions](https://github.com/netlify/netlify-faunadb-example/blob/master/README.md)
-* [Netlify integration with fauna](https://docs.fauna.com/fauna/current/integrations/netlify.html)
-* [ecommerce](https://docs.fauna.com/fauna/current/tutorials/ecommerce.html)
-* https://github.com/nichoth/fauna-netlify
-
 
 ## netlify cms
 Put the netlify CMS single page app in the route `/admin`. It allows you to save content to your repository via github.
