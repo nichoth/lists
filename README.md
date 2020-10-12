@@ -95,6 +95,11 @@ Put the netlify CMS single page app in the route `/admin`. It allows you to save
 * [hypergraph](https://blog.libscie.org/introducing-hypergraph-beta/)
 * [dat store](https://github.com/datproject/dat-store)
 * [textile hub](https://blog.textile.io/announcing-the-textile-protocol-hub/)
+* [hypercore-protocol.org](https://hypercore-protocol.org/)
+* [hypertrie](https://www.npmjs.com/package/hypertrie) -- Distributed single writer key/value store
+* [pinata](https://pinata.cloud/)
+
+
 
 
 ## css
@@ -106,8 +111,10 @@ Put the netlify CMS single page app in the route `/admin`. It allows you to save
 --------------------------------------------------
 
 * [the wet codebase](https://www.deconstructconf.com/2019/dan-abramov-the-wet-codebase)
-
-
+* [recoil](https://recoiljs.org/) -- react state management
+* [Functional lenses for contemporary frameworks - Andre Staltz](https://www.youtube.com/watch?v=5R3l2r1XxKI)
+* [find-my-way](https://www.npmjs.com/package/find-my-way) -- http router
+* [fission](https://fission.codes/)
 
 
 
