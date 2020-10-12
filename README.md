@@ -47,6 +47,7 @@
 "Display and manage orders, customers and discounts inside your own CMS admin."
 * square -- 2.9% + $.30 / payment
 * [foxy.io](https://www.foxy.io/) -- $15/month
+* [Dynamic product management in a static e-commerce workflow](https://www.contentful.com/blog/2016/02/10/snipcart-middleman-contentful/)
 
 ------------------------
 
@@ -92,7 +93,14 @@ Put the netlify CMS single page app in the route `/admin`. It allows you to save
 * https://www.datprotocol.com/
 * [ocean protocol](https://oceanprotocol.com/)
 * [hypergraph](https://blog.libscie.org/introducing-hypergraph-beta/)
+* [dat store](https://github.com/datproject/dat-store)
+* [textile hub](https://blog.textile.io/announcing-the-textile-protocol-hub/)
 
+
+## css
+* [primer](https://primer.style/css/)
+* [bulma](https://bulma.io/)
+* https://tailwindcss.com/
 
 
 
