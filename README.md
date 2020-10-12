@@ -103,6 +103,10 @@ Put the netlify CMS single page app in the route `/admin`. It allows you to save
 * https://tailwindcss.com/
 
 
+--------------------------------------------------
+
+* [the wet codebase](https://www.deconstructconf.com/2019/dan-abramov-the-wet-codebase)
+
 
 
 
