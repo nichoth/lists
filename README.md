@@ -98,7 +98,7 @@ Put the netlify CMS single page app in the route `/admin`. It allows you to save
 * [hypercore-protocol.org](https://hypercore-protocol.org/)
 * [hypertrie](https://www.npmjs.com/package/hypertrie) -- Distributed single writer key/value store
 * [pinata](https://pinata.cloud/)
-
+* [dat sdk](https://github.com/datproject/sdk)
 
 
 
