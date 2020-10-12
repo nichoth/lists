@@ -115,6 +115,8 @@ Put the netlify CMS single page app in the route `/admin`. It allows you to save
 * [Functional lenses for contemporary frameworks - Andre Staltz](https://www.youtube.com/watch?v=5R3l2r1XxKI)
 * [find-my-way](https://www.npmjs.com/package/find-my-way) -- http router
 * [fission](https://fission.codes/)
+* [Learn more about Threads and the Powergate from the IPFS Pinning Summit](https://blog.textile.io/learn-more-about-threads-and-the-powergate-from-the-ipfs-pinning-summit/)
+* [CS 253 Web Security](https://web.stanford.edu/class/cs253/)
 
 
 
