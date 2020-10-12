@@ -118,6 +118,13 @@ Put the netlify CMS single page app in the route `/admin`. It allows you to save
 * [Learn more about Threads and the Powergate from the IPFS Pinning Summit](https://blog.textile.io/learn-more-about-threads-and-the-powergate-from-the-ipfs-pinning-summit/)
 * [CS 253 Web Security](https://web.stanford.edu/class/cs253/)
 
+------------------------------------------------
+
+* https://www.wonderlandams.com/career/developer
+* https://wemake.services/
+
+
+
 
 
 
