@@ -77,5 +77,25 @@ Go to https://squareup.com/dashboard/items/library to add/remove "products" from
 ## netlify cms
 Put the netlify CMS single page app in the route `/admin`. It allows you to save content to your repository via github.
 
+-----------------------------------------------
+
+## design
+* https://2020.webconf.asia/
+* https://kristen.dev/
+* https://www.cassie.codes/
+
+------------------------------------------------
+
+## hyper
+* https://github.com/hypercore-protocol/hypercore
+* https://www.datprotocol.com/
+* [ocean protocol](https://oceanprotocol.com/)
+* [hypergraph](https://blog.libscie.org/introducing-hypergraph-beta/)
+
+
+
+
+
+
 
 
